@@ -5,7 +5,6 @@
 
 #--[Imports]--------------------------------------------------------------
 from numpy import int16, float32
-
 from traits.api import HasPrivateTraits, Array
 from traitsui.api import View, ArrayEditor, Item
 from traitsui.menu import NoButtons
